@@ -1,1 +1,1 @@
-# Zadaniya
+# Iscusstvennye_neyronne_seti
